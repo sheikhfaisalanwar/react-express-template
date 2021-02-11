@@ -1,5 +1,4 @@
-# React Express Template Sheikh Faisal Anwar
-
+# React Express Template
 ## About / Synopsis
 
 * An organization of typescript Express backend and React frontend
